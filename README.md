@@ -141,7 +141,7 @@ Refer to the LangChain documentation for a full list of supported providers and 
 Clone the repository:
 
 ```bash
-git clone https://github.com/[your-username]/terminal-agent.git
+git clone https://github.com/sriram-dev-9/Terminal-Agent.git
 cd terminal-agent
 ```
 
